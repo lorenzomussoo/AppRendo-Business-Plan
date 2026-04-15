@@ -1,4 +1,4 @@
-# AppRendo - EdTech Startup Business Case 🎓
+# AppRendo - EdTech Startup Business Case 🎓 
 
 AppRendo is a business project designed to bridge the gap between students seeking educational support and qualified tutors. The project addresses the modern need for flexible, high-quality digital learning environments, overcoming the logistical barriers of traditional in-person tutoring.
 
